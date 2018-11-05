@@ -102,6 +102,10 @@ Encoding Decoding
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Costliest_Disease_US.png)
 
 
+### COSTLIEST DISEASE CALIFORNIA
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Costliest_Disease_California.png)
+
+
 
 ### STATE WISE HIGHEST NUMBER OF PRESCRIPTION
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/StatesHighestNumberOf%20Prescription..png)
