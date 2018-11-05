@@ -97,9 +97,12 @@ Encoding Decoding
 
 
 
-## Youtube Videos:
+## Youtube Video:
 
 https://youtu.be/w7zaLvcsFV4
+
+## Power Point Presentation Link:
+https://drive.google.com/file/d/1ALvc5xNjyyiX_h3jRiD2TE3Fi5a0xHEG/view?usp=sharing
 
 
 ## Screenshots:
