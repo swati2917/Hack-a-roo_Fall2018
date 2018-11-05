@@ -97,6 +97,23 @@ Encoding Decoding
 
 ## Screenshots:
 
+
+### COSTLIEST DISEASE:
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Costliest_Disease_US.png)
+
+
+
+### STATE WISE HIGHEST NUMBER OF PRESCRIPTION
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/StatesHighestNumberOf%20Prescription..png)
+
+
+### TOP 10 COSTLIEST DRUGS
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Top10Costliest_Drug_US.png)
+
+### TOP 10 STATE SPENDINGS ON RX DRUGS
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Top10StateSpendingonRXDrugs.png)
+
+### PREDICTIONS
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/California_Pred.png)
 
 
