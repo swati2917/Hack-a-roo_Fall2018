@@ -16,11 +16,10 @@ Members:
 
 
 ## Technology Used:
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Technologies.JPG)
 *Python
 
-
 *SkLearn
-
 
 *Panda
 
@@ -60,12 +59,17 @@ Members:
 
 ## Features:
 1.Data Preprocessing:
+
+
 Pandas and Numpy
-Missing values using imputers. SkiLearn 
+Missing values using imputers.
+SkiLearn:
 Encoding Decoding 
 
 
 2.Exploratary Data Analysis: 
+
+
 *Costliest Rx drug 
 
 *Top 10 costliest drug spending in United States.
