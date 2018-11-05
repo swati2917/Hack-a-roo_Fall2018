@@ -17,12 +17,33 @@ Members:
 
 ## Technology Used:
 *Python
+
+
 *SkLearn
+
+
 *Panda
+
+
 *MatplotLib
+
+
+
 *Cborn
+
+
+
 *Numpy
+
+
+
+
 *Model Selections
+
+
+
+
+
 *Linear Regression model
 
 
@@ -37,17 +58,27 @@ Members:
 
 
 ## Features:
-1.Data Preprocessing: Pandas and Numpy
+1.Data Preprocessing:
+Pandas and Numpy
 Missing values using imputers. SkiLearn 
 Encoding Decoding 
 
 
-2.Data Analysis:
+2.Exploratary Data Analysis: 
+*Costliest Rx drug 
 
+*Top 10 costliest drug spending in United States.
 
+*Top 10 state by spending on Medicaid Rx Drug.
 
-
+*Top 10 state by highest number of Rx prescription.
+ 
+ *Top 10 costliest disease in US using the drug utilization Heid Data
+ 
+ 
 3.Predictions:
+
+*Prediction for Missouri, California and Kansas Rx drug prescription
 
 
 
