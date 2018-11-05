@@ -96,3 +96,12 @@ Encoding Decoding
 
 
 ## Screenshots:
+
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/California_Pred.png)
+
+
+
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Missouri_Pred.png)
+
+
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Kansas_Pred.png)
