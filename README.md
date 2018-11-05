@@ -15,35 +15,42 @@ Members:
 * Sushma Manne
 
 
-## Technology Used:
+## Technologies Used:
+
+*Python- Programming Language
+
+*SkLearn- Encoding
+
+*Panda, Numpy- Data Preprocessing
+
+
+*MatplotLib, Seaborn- Graph Visualization
+
+
+
+
+
+
+
+
+
+## Architecture
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Technologies.JPG)
-*Python
-
-*SkLearn
-
-*Panda
-
-
-*MatplotLib
-
-
-
-*Seaborn
-
-
-
-*Numpy
-
-
-
-
-*Model Selections
 
 
 
 
 
-*Linear Regression model
+
+
+
+
+
+
+
+
+
+
 
 
 ## Visualizations:
