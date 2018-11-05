@@ -97,9 +97,54 @@ https://youtu.be/w7zaLvcsFV4
 
 ## Screenshots:
 
+### ANALYSIS
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/ANALYSIS.JPG)
+
+
+
+
+
+
+
+
+### PREDICTION
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/PREDICTION.JPG)
+
+
+
+
+
+
+
+
+
+
 
 ### COSTLIEST DISEASE:
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Costliest_Disease_US.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### COSTLIEST DISEASE CALIFORNIA
@@ -107,15 +152,78 @@ https://youtu.be/w7zaLvcsFV4
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### STATE WISE HIGHEST NUMBER OF PRESCRIPTION
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/StatesHighestNumberOf%20Prescription..png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### TOP 10 COSTLIEST DRUGS
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Top10Costliest_Drug_US.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### TOP 10 STATE SPENDINGS ON RX DRUGS
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Top10StateSpendingonRXDrugs.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -128,7 +236,43 @@ https://youtu.be/w7zaLvcsFV4
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Missouri_Pred.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Kansas_Pred.png)
