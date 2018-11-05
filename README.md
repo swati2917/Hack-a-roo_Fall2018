@@ -50,7 +50,8 @@ Members:
 ## Visualizations:
 
 
-![https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Workflow.JPG]
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Workflow.JPG)
+
 
 
 
