@@ -29,7 +29,7 @@ Members:
 
 
 
-*Cborn
+*Seaborn
 
 
 
