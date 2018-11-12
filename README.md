@@ -15,41 +15,48 @@ Members:
 * Sushma Manne
 
 
-## Technology Used:
-*Python
+## Technologies Used:
+
+*Python- Programming Language
+
+*SkLearn- Encoding
+
+*Panda, Numpy- Data Preprocessing
 
 
-*SkLearn
-
-
-*Panda
-
-
-*MatplotLib
-
-
-
-*Seaborn
-
-
-
-*Numpy
-
-
-
-
-*Model Selections
+*MatplotLib, Seaborn- Graph Visualization
 
 
 
 
 
-*Linear Regression model
+
+
+
+
+## Architecture
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Technologies.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Visualizations:
 
 
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Workflow.JPG)
 
 
 
@@ -59,12 +66,17 @@ Members:
 
 ## Features:
 1.Data Preprocessing:
+
+
 Pandas and Numpy
-Missing values using imputers. SkiLearn 
+Missing values using imputers.
+SkiLearn:
 Encoding Decoding 
 
 
 2.Exploratary Data Analysis: 
+
+
 *Costliest Rx drug 
 
 *Top 10 costliest drug spending in United States.
@@ -85,9 +97,192 @@ Encoding Decoding
 
 
 
-## Youtube Videos:
+## Youtube Video:
 
+https://youtu.be/w7zaLvcsFV4
 
+## Power Point Presentation Link:
+https://drive.google.com/file/d/1ALvc5xNjyyiX_h3jRiD2TE3Fi5a0xHEG/view?usp=sharing
 
 
 ## Screenshots:
+
+### ANALYSIS
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/ANALYSIS.JPG)
+
+
+
+
+
+
+
+
+### PREDICTION
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/PREDICTION.JPG)
+
+
+
+
+
+
+
+
+
+
+
+### COSTLIEST DISEASE:
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Costliest_Disease_US.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### COSTLIEST DISEASE CALIFORNIA
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Costliest_Disease_California.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### STATE WISE HIGHEST NUMBER OF PRESCRIPTION
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/StatesHighestNumberOf%20Prescription..png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### TOP 10 COSTLIEST DRUGS
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Top10Costliest_Drug_US.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+### TOP 10 STATE SPENDINGS ON RX DRUGS
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Top10StateSpendingonRXDrugs.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### PREDICTIONS WITH ACCURACY
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/California_Pred.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Missouri_Pred.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://github.com/swati2917/Hack-a-roo_Fall2018/blob/master/Documents/Kansas_Pred.png)
